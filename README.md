@@ -48,9 +48,8 @@ A simple Python script to batch rename WAV files in a folder numerically, specif
 
 ## Usage
 
-1. Clone or download the repository.
-2. Update the `folder_path` variable in `rename.ipynb` to point to the directory containing your WAV files.
-3. Run rename.ipynb using Python 3.9:
+1. Update the `folder_path` variable in `Rename.ipynb` to point to the directory containing your WAV files.
+2. Run Rename.ipynb using Python 3.9:
 
 
 # Audio_PreProcessing.py
